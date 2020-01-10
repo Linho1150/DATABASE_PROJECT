@@ -1,5 +1,5 @@
 # DATABASE_PROJECT
-- Database modeling based on Myrealtrip web pages
+- Practice database modeling based on Myrealtrip web pages
 - This Project is End
 
 # Project Result Report
